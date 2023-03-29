@@ -12,3 +12,7 @@ Land-use and cover change (LUCC) models' performance is influenced by spatial ch
 · LUCC model's performance differences exist between the urbanized and rural subregions with different spatial characteristics.
 
 · It is advisable to compare different model outputs for each subregion to account for the uncertainty of the modeling exercises. 
+
+#About the repository
+
+In this repository we share the outputs from each Land Use Change model used (Geomod, Land Change Modeller and Cellular Automata Markov) in this study. The data is stored and available in three different folders within the main branch of the repository. 
